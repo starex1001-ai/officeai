@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "name": "오피스AI",
+  "brand": "OFFICEAI",
+  "mark": "OF",
+  "worker": "officeai",
+  "url": "https://officeai.webnote-lab.workers.dev",
+  "description": "오피스AI의 정보와 실용 가이드를 정리합니다.",
+  "tagline": "오피스AI, 차근차근 알아보기",
+  "categories": [
+    {
+      "description": "오피스AI의 정보와 실용 가이드를 정리합니다.",
+      "name": "오피스AI",
+      "slug": "officeai"
+    }
+  ],
+  "contact_url": "https://github.com/starex1001-ai/officeai/issues"
+}
